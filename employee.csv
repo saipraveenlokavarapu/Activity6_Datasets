@@ -1,9 +1,9 @@
 EmployeeID,MathScore,Age,Department
-E301,89,25,Finance
+E301,89,49,Finance
 E302,76,30,HR
 E303,91,28,Engineering
 E304,68,35,Marketing
-E305,84,27,Sales
+E305,84,45,Sales
 E306,73,32,IT
 E307,65,52,Engineering
 E308,42,33,Finance
